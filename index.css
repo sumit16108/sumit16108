@@ -22,5 +22,5 @@ object-fit:cover;
 
 .imgBody {
 	width: inherit;
-	height inherit;
+	height: inherit;
 }
