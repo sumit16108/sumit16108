@@ -18,9 +18,9 @@ object-fit:cover;
 	height:535px;
 	top:10%;
 	left:29%;
-	//background-color: white;
-	backdrop-filter: blur(4px);
-	//opacity: 0.2;
+	
+	backdrop-filter: blur(10px);
+	
 }
 
 .imgBody {
